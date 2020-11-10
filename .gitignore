@@ -19,8 +19,8 @@
 /intro/[Bb]uilds/
 /intro/[Ll]ogs/
 /intro/[Mm]emoryCaptures/
-!/[Aa]ssets//intro/**/*.meta
-[Aa]ssets//intro/Plugins/Editor/JetBrains*
+!/[Aa]ssets/intro/**/*.meta
+[Aa]ssets/intro/Plugins/Editor/JetBrains*
 
 #StateAndTransction
 /StateAndTransction/[Ll]ibrary/
@@ -31,7 +31,7 @@
 /StateAndTransction/[Ll]ogs/
 /StateAndTransction/[Mm]emoryCaptures/
 !/[Aa]ssets//StateAndTransction/**/*.meta
-[Aa]ssets//StateAndTransction/Plugins/Editor/JetBrains*
+[Aa]ssets/StateAndTransction/Plugins/Editor/JetBrains*
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
