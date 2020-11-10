@@ -10,8 +10,33 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+#intro
+/intro/[Ll]ibrary/
+/intro/[Tt]emp/
+/intro/[Oo]bj/
+/intro/[Bb]uild/
+/intro/[Bb]uilds/
+/intro/[Ll]ogs/
+/intro/[Mm]emoryCaptures/
+!/[Aa]ssets//intro/**/*.meta
+[Aa]ssets//intro/Plugins/Editor/JetBrains*
+
+#StateAndTransction
+/StateAndTransction/[Ll]ibrary/
+/StateAndTransction/[Tt]emp/
+/StateAndTransction/[Oo]bj/
+/StateAndTransction/[Bb]uild/
+/StateAndTransction/[Bb]uilds/
+/StateAndTransction/[Ll]ogs/
+/StateAndTransction/[Mm]emoryCaptures/
+!/[Aa]ssets//StateAndTransction/**/*.meta
+[Aa]ssets//StateAndTransction/Plugins/Editor/JetBrains*
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
