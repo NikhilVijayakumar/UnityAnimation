@@ -34,6 +34,19 @@
 [Aa]ssets/StateAndTransction/Plugins/Editor/JetBrains*
 
 
+
+#BareBones
+/[Aa]ssets/BareBones/[Ll]ibrary/
+/[Aa]ssets/BareBones/[Tt]emp/
+/[Aa]ssets/BareBones/[Oo]bj/
+/[Aa]ssets/BareBones/[Bb]uild/
+/[Aa]ssets/BareBones/[Bb]uilds/
+/[Aa]ssets/BareBones/[Ll]ogs/
+/[Aa]ssets/BareBones/[Mm]emoryCaptures/
+!/[Aa]ssets/BareBones/**/*.meta
+/[Aa]ssets/BareBones/Plugins/Editor/JetBrains*
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
