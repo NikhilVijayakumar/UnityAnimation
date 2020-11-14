@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Bridge
   - DeathCube
+  - Chair
+  - ChairAnchor
   layers:
   - Default
   - TransparentFX
