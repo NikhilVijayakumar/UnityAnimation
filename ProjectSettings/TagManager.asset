@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bridge
+  - DeathCube
+  - Chair
+  - ChairAnchor
   layers:
   - Default
   - TransparentFX
